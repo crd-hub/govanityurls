@@ -1,5 +1,5 @@
 host: go.crdhub.dev
 
 paths:
-  /gen-crd-api-reference-docs:
-    repo: https://github.com/crd-hub/gen-crd-api-reference-docs
+  /gen-api-reference-docs:
+    repo: https://github.com/crd-hub/gen-api-reference-docs
